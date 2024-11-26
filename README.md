@@ -96,7 +96,7 @@ Technician: A Staff member responsible for technical work, with a specific speci
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/yourrepository.git
+        git clone https://github.com/MagedMedhat/JAVA-OOP-Project.git
 
 
 2. Open the project in your preferred Java IDE.
